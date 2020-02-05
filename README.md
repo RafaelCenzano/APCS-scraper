@@ -23,32 +23,12 @@ pip3 install -r requirements.txt
 Will run and display all 404 on README urls
 
 ```
-make run
+python3 run.py test.md
 ```
 
-or with python manually
+You can add `hide` or `delete` as another argument to commment out or delete 404 urls
 
-```
-python3 run.py
-```
-
-## Running the tests
-
-```
-make test
-```
-
-or with ... manually
-
-```
-run test command
-```
-
-#### What are the tests checking
-
-test check for ...
-
-#### What happens when a test fails
+#### What happens when something goes wrong
 
 Report the failed test [here](https://github.com/RafaelCenzano/APCS-scraper/issues)!
 
