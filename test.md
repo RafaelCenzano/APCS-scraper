@@ -84,7 +84,7 @@ Samples of Student Work
 [Calvin](https://callmecalvin808.github.io/OriginalFractal/)   
 [Juliana](https://solojuliana.github.io/OriginalFractal/)   
 [Celina](https://celinaye.github.io/OriginalFractal/)   
-[Jack](https://paintcannon.github.io/OriginalFractal/)   
+<!-- Hidden: [Jack](https://paintcannon.github.io/OriginalFractal/) -->
 [Chris](https://chrisc641.github.io/OriginalFractal/)   
 [Emil](https://emil000.github.io/OriginalFractal/)   
 [Gordon](https://milkteadailo.github.io/OriginalFractal/)   
@@ -97,7 +97,7 @@ Samples of Student Work
 [Rolland](https://rollandliao.github.io/OriginalFractal/)   
 [Annie](https://althevia.github.io/OriginalFractal/)   
 [Joe](https://joehuang1108.github.io/OriginalFractal/)   
-[Alex](http://alexruiz.me/OriginalFractal/)   
+[Alex](http://alexruiz.me/OriginalFractal/) <!-- Error requesting page -->
 [Benjamin](https://noobilicious.github.io/OriginalFractal/)   
 [Andrew](https://drewren25.github.io/OriginalFractal/)   
 [Prescott](https://prescott00000.github.io/OriginalFractal/)   
@@ -118,12 +118,12 @@ Samples of Student Work
 [Yolanda](https://yofeng.github.io/OriginalFractal/)      
 [Garvin](https://garvingit.github.io/OriginalFractal/)   
 [Kendra](https://pastalover45.github.io/OriginalFractal/)   
-[Brandon](https://zawszefl.github.io/OriginalFractal/)   
-[Elias](https://eliaslfox.github.io/Mah-Fractal/)   
+<!-- Hidden: [Brandon](https://zawszefl.github.io/OriginalFractal/) -->
+<!-- Hidden: [Elias](https://eliaslfox.github.io/Mah-Fractal/) -->
 [Otto](https://otschmidt.github.io/OriginalFractal/)   
 [Xiao Fei](https://xiaofeizeng.github.io/OriginalFractal/)   
 [Gordon](https://gordonkong.github.io/OriginalFractal/)   
-[Lydia](https://aqua28.github.io/OriginalFractal/)   
+<!-- Hidden: [Lydia](https://aqua28.github.io/OriginalFractal/) -->
 [Kevin](https://tig787.github.io/OriginalFractal/)   
 [Andy](https://apzsfo.github.io/OriginalFractal/)   
 [Bryan](https://bzin22.github.io/OriginalFractal/)   
@@ -139,24 +139,24 @@ Samples of Student Work
 [Victor](https://kingvictor.github.io/OriginalFractal/)   
 [Edmund](https://edmundmah79.github.io/SierpinskiTriangle/)   
 [Mike](https://mimonokandilos.github.io/OriginalFractal/)   
-[Maxwell](https://12maxwellho.github.io/OriginalFractal/)   
+<!-- Hidden: [Maxwell](https://12maxwellho.github.io/OriginalFractal/) -->
 [Nathan](https://nathansng.github.io/OriginalFractal/)   
 [Darren](https://dawong15.github.io/OriginalFractal/)   
 [Juan](https://juan-hernandez7.github.io/OriginalFractal/)   
 [Robert](https://rshi159.github.io/OriginalFractal/)   
-[Brandon](https://brandontom96.github.io/OriginalFractal/)   
-[Aaron](https://aahuangithub.github.io/OriginalFractal/)   
+<!-- Hidden: [Brandon](https://brandontom96.github.io/OriginalFractal/) -->
+<!-- Hidden: [Aaron](https://aahuangithub.github.io/OriginalFractal/) -->
 [Ben](https://benjaminlanir.github.io/OriginalFractal/)   
 [Sam](https://flukemeister28.github.io/OriginalFractal/)   
 [Jayden](https://jaydenlee1229.github.io/OriginalFractal/)   
 [Ryan](https://avath.github.io/OriginalFractal/)   
-[Preston](https://prestonttt.github.io/OriginalFractal/)   
+<!-- Hidden: [Preston](https://prestonttt.github.io/OriginalFractal/) -->
 [Steven](https://stliu8.github.io/OriginalFractal/)   
 [Derek](https://keredlew.github.io/OriginalFractal/)   
 [Janet](https://birded.github.io/OriginalFractal/)   
 [Joshua](https://joshualchan.github.io/OriginalFractal/)   
 [Katie](https://kachow4.github.io/OriginalFractal/)   
-[Makoi](https://magacula1.github.io/OriginalFractal/)   
+<!-- Hidden: [Makoi](https://magacula1.github.io/OriginalFractal/) -->
 [Dillon](https://dillonlee27.github.io/OriginalFractal/)   
 [Kelly](https://kellyruan.github.io/OriginalFractal/)   
 [Thanawat](https://thiskappaisgrey.github.io/OriginalFractal/index.html)   
@@ -173,7 +173,7 @@ Samples of Student Work
 [Elton](https://elel123.github.io/OriginalFractal/)   
 [Erica](https://ericamalia.github.io/OriginalFractal/)   
 [Zhenwen](https://1337elitehacker.github.io/OriginalFractal/)   
-[Jonathan](https://jonathanchu33.github.io/OriginalFractal/)   
+<!-- Hidden: [Jonathan](https://jonathanchu33.github.io/OriginalFractal/) -->
 [Emily](https://emilyhasramen.github.io/OriginalFractal/)   
 [Emma](https://emmackenzie.github.io/OriginalFractal/)   
 [Arthur](https://arzhang.github.io/OriginalFractal/)   
@@ -192,4 +192,4 @@ Samples of Student Work
 [Raymond](https://ngoraymond.github.io/OriginalFractal/)  
 [Schuyler](https://skschur1.github.io/OriginalFractal/)   
 
- 
+
