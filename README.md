@@ -39,6 +39,7 @@ Report the failed test [here](https://github.com/RafaelCenzano/APCS-scraper/issu
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
 This Readme was created with pystarter
 
 ```
