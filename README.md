@@ -1,6 +1,6 @@
 # APCS scraper
 
-Python app to scrape and remove links that return 404
+Python app to scrape and hide or remove links that return 404 and mark pages that can't be requested
 
 #### Requirements
 
